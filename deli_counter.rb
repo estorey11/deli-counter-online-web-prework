@@ -1,7 +1,9 @@
 # Write your code here.
 
-def line 
-  
+def line (katz_deli)
+  line="The line is currently "
+  if katz_deli.length == 0 
+    line<<"empty"
 end
 
 def take_a_number(katz_deli, name)
